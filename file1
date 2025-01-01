@@ -1,6 +1,12 @@
--===========================in the name of allah==============================-
-Allah is always great 
-allah please help to in my life 
-you is the one and only  god of all the things
+adding text to file1 by using cat > filename
 
+Allah always like to help us
+We always beg from allah 
+Allah gives everything 
+he is the greatest person 
+
+By using cat>filename method it delete the prvious content and write the new content
+by using :wq we can save and exit the vi editor
+by usig esc key we can get out of the insert mode in vi editor 
+vi editor is one of the most powerful editor in linux
 
