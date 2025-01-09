@@ -1,3 +1,9 @@
 ===================In the name of allah ================================
 ============Welcome to learn linux commands in Tamil
+creating user "sithik"
+> useradd sithik
+creating group 
+> groupadd family
+> groupadd father
+
 
